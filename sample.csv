@@ -1,0 +1,9 @@
+id;amount;urgent;risk;personal;expected
+r1;100000;false;LOW;false;STANDARD
+r2;100000;true;LOW;false;FAST_TRACK
+r3;600000;false;LOW;false;FINANCE_REVIEW
+r4;100000;false;HIGH;false;DIRECTOR_REVIEW
+r5;100000;true;LOW;true;SECURITY_REVIEW
+r6;200000;false;MEDIUM;false;DIRECTOR_REVIEW
+r7;;false;LOW;false;ERROR
+r8;100000;false;EXTREME;false;ERROR
